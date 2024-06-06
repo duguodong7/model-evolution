@@ -6,7 +6,7 @@ our key contributions include:
 1) **Innovative model evolution method**: We propose a novel knowledge fusion method from an evolutionary perspective, by evolving weights of language models.
 2) **Improved knowledge fusion performance**: Our method consistently enhances knowledge fusion performance across a broad spectrum of data domains and tasks.
 
-![](figures/evolver.png)
+![](figures/evolver_00.png)
 
 ```
 @inproceedings{
